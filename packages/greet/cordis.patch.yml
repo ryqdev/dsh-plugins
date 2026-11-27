@@ -1,0 +1,5 @@
+# Layer applied to a profile when this bundle is installed with `dsh plugin add`.
+# The row refers to the plugin by package name so Node can resolve the installed code.
+- insert:
+    - id: greet
+      name: '@ryqdev/dsh-plugin-greet'

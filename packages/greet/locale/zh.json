@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Greet",
+    "description": "添加一个 greet 工具，按名字向对方问好。"
+  }
+}
